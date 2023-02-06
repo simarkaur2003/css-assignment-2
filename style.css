@@ -1,0 +1,50 @@
+body {
+    background-color: #f0f0d1;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+  }
+  
+  header {
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 3em;
+    font-family: 'Cutive Mono', monospace;
+  }
+  
+  section {
+    margin-top: 50px;
+  }
+  
+  h2 {
+    font-size: 2em;
+    font-style: italic;
+    color:#4946c8;
+    text-decoration:underline;
+    font-family:Brush Script MT;
+  }
+  
+  p {
+    font-size: 1.5em;
+    line-height: 1.5;
+    color:#bf4586;
+  }
+  
+    h3{
+     color:#d77c65;
+     font-size:1.6em;
+     font-weight:bold;
+      text-decoration:underline;
+      font-family:papyrus;
+   }
+  footer {
+   
+    
+    width: 100%;
+    background-color: #413a4b;
+    color: white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+  }
